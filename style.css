@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ad3{
+   position: absolute;
+    width: 1683px;
+    height: 820px;
+}
+.ad2{
+    color:yellowgreen;
+    position:relative;
+    text-align: center;
+    font-size: 36px;
+}
+.ad4{
+    color:white;
+    position: relative;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 26px;
+ } 
+ .op1{
+    color:white;
+    position: relative;
+    font-size: 30px;
+ }
+ .op2{
+    color:white;
+    position: relative;
+    font-size: 30px;
+ }
+ .op3{
+    color:white;
+    position: relative;
+    font-size: 30px;
+ }
+ .op4{
+    color:white;
+    position: relative;
+    font-size: 30px;
+ }
