@@ -1,42 +1,55 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.ad3{
-   position: absolute;
-    width: 1683px;
-    height: 820px;
+.ad3 {
+  position: absolute;
+  width: 1700px;
+  height: 820px;
 }
-.ad2{
-    color:yellowgreen;
-    position:relative;
-    text-align: center;
-    font-size: 36px;
+.ad2 {
+  background-color: crimson;
+  height: 60px;
+  color: orange;
+  position: relative;
+  margin-left: 20px;
+  font-size: 36px;
 }
-.ad4{
-    color:white;
-    position: relative;
-    margin-top: 40px;
-    text-align: center;
-    font-size: 26px;
- } 
- .op1{
-    color:white;
-    position: relative;
-    font-size: 30px;
- }
- .op2{
-    color:white;
-    position: relative;
-    font-size: 30px;
- }
- .op3{
-    color:white;
-    position: relative;
-    font-size: 30px;
- }
- .op4{
-    color:white;
-    position: relative;
-    font-size: 30px;
- }
+.ad4 {
+  color: white;
+  position: relative;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 26px;
+}
+i {
+  margin-left: 74px;
+  position: relative;
+  color: yellow;
+  font-size: 60px;
+}
+.op {
+  display: flex;
+}
+.op1 {
+  margin-top: 100px;
+  margin-left: 50px;
+  list-style: none;
+  display: inline;
+  color: white;
+  position: relative;
+  font-size: 30px;
+}
+.op2 {
+  margin-top: 100px;
+  margin-left: 300px;
+  list-style: none;
+  color: white;
+  position: relative;
+  font-size: 30px;
+}
+i {
+  position: relative;
+  color: yellow;
+  font-size: 60px;
+}
